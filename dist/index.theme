@@ -1,3 +1,5 @@
 [Icon Theme]
 Name=Layan Cursors
-
+Comment=Custom High-DPI Layan Cursors (128px Native Master Layer)
+Size=24
+Sizes=24,32,48,64,96
